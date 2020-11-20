@@ -12,7 +12,7 @@ public class Impressora {
     
          Impressora imprimir = new Impressora();
     
-         imprimir.imprimaValor("Imprimir no console usando a classe Impressora deu certo!");
+         Impressora.imprimaValor("Imprimir no console usando a classe Impressora deu certo!");
     
     }
 
